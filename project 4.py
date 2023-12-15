@@ -18,7 +18,8 @@ if answer == "yes":
 
     answer1 = input(">>Are you going to jugle or cave [jungle or cave] : ")
     if answer1 == "jungle":
-        print("> tiger is coming . killed you.")
+        print()
+        print("> tiger is coming . killed you. \n #Game Over")
 
     elif answer1 == "cave":
         print("> can you seen the Bear .")
@@ -51,7 +52,9 @@ if answer == "yes":
         print("> Game over")
     
 else:
-    print('Try Again The game . This is very wonderfull game')
+    print()
+
+    print('> Try Again The game . This is very wonderfull game')
 
 
 print()
