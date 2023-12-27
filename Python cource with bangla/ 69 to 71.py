@@ -52,9 +52,9 @@ print()
 
 
 
-read1 = open("read.txt","r")
+# read1 = open("read.txt","r")
 
-print(read1.read())
+# print(read1.read())
 
 
 try:
@@ -151,7 +151,7 @@ os.remove("newremovefile.html")
 
 import os
 
-os.rmdir("maintingfile")  #> 'os.rmdir(<foldername>)'  > return error because folder allready deleted
+# os.rmdir("maintingfile")  #> 'os.rmdir(<foldername>)'  > return error because folder allready deleted
 
 
 

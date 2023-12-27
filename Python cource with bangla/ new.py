@@ -1,0 +1,2 @@
+a = open("practice","w")
+

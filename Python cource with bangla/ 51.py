@@ -17,7 +17,7 @@ r"""
 > function syntex holo "def"
 """
 
-#>> "deg function " use na kore "lambda use " kora aro shohoj hoy. "# 56 = Python lambda" number lesson
+#>> "def function " use na kore "lambda use " kora aro shohoj hoy. "# 56 = Python lambda" number lesson
 
 
 print()
